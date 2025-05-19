@@ -6,7 +6,7 @@
   "id": "did:web:prathmeshj12.github.io:certifytest:certifytestsomething",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkfSsFoh7f51ynihtgQE22aqnQmxNhN1xjHGNPeSebfuNK",
+      "publicKeyMultibase": "z6MkiwzY5SnazQzej98UQvfE8jDmM8VKj99UiAWBMqq3GUhT",
       "controller": "did:web:prathmeshj12.github.io:certifytest:certifytestsomething",
       "id": "did:web:prathmeshj12.github.io:certifytest:certifytestsomething#key-0",
       "type": "Ed25519VerificationKey2020",
